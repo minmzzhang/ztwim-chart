@@ -1,8 +1,8 @@
 apiVersion: v2
-name: zero-trust-workload-identity-manager
+name: ztwim
 description: Zero Trust Workload Identity Manager Helm Chart
 type: application
-version: 0.1.0
+version: 0.1.1
 home: https://github.com/validatedpatterns/ztwim-chart
 maintainers:
   - name: Validated Patterns Team
